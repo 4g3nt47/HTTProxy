@@ -1,0 +1,5 @@
+#!/bin/bash
+# Bash wrapper for HTTProxy.
+# Author: Umar Abdul
+
+java com.umarabdul.networking.httproxy.HTTProxy "$@"
